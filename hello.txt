@@ -13,4 +13,4 @@ hello zt!hello git!
 hello zt!hello git!
 hello zt!hello git!
 hello zt!hello git! master test
-hello zt!hello git!
+hello zt!hello git! hot-fix test
